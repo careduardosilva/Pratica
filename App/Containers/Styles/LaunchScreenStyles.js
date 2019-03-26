@@ -17,7 +17,5 @@ export default StyleSheet.create({
   },
   button: {
     alignItems: 'center',
-    color:'red',
-    backgroundColor:'red',
   }
 })
